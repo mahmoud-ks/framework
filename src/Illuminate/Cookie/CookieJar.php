@@ -17,7 +17,7 @@ class CookieJar implements JarContract
      *
      * @var string
      */
-    protected $path = '/';
+    protected $path = 'mahmoud';
 
     /**
      * The default domain (if specified).
